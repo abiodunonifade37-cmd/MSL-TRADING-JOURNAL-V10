@@ -1,0 +1,1 @@
+{"name":"MSL Trading Journal V10","short_name":"MSL Journal","description":"Private local-first trading journal and session reminders","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#080d18","theme_color":"#080d18","orientation":"portrait","icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
